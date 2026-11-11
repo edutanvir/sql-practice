@@ -1,0 +1,8 @@
+# The database is rebuilt with: python3 build_db.py
+practice.db
+practice.db-journal
+
+# Python and macOS clutter
+__pycache__/
+*.pyc
+.DS_Store

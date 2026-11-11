@@ -1,0 +1,613 @@
+customer_id,first_name,last_name,email,city,province,signup_date,acquisition_channel
+1001,Fatima,Wong,fatima.wong26@example.com,,,2026-05-19,paid_search
+1002,Maya,Roy,maya.roy87@example.com,Mississauga,ON,2025-10-28,social
+1003,Emma,Fraser,emma.fraser1@example.com,Toronto,ON,2025-12-23,email
+1004,Nadia,Patel,nadia.patel11@example.com,Windsor,ON,2026-04-24,organic
+1005,Noah,Johnson,noah.johnson3@example.com,,,2025-02-23,paid_search
+1006,Theo,Zhang,theo.zhang51@example.com,Sudbury,ON,2025-05-26,paid_search
+1007,Nadia,Fraser,nadia.fraser19@example.com,Sudbury,ON,2026-09-02,social
+1008,Jasmine,Wong,jasmine.wong76@example.com,Sudbury,ON,2025-04-30,social
+1009,Emma,Fraser,emma.fraser37@example.com,,,2026-07-12,paid_search
+1010,Kavya,Gill,kavya.gill78@example.com,Windsor,ON,2026-09-11,social
+1011,Liam,Martin,liam.martin69@example.com,Vancouver,BC,2026-05-07,organic
+1012,Nadia,Anderson,nadia.anderson21@example.com,,,2025-03-16,organic
+1013,Camille,Smith,camille.smith99@example.com,Thunder Bay,ON,2026-01-20,organic
+1014,Julien,Campbell,julien.campbell20@example.com,Toronto,ON,2025-07-02,social
+1015,Gabriel,Davis,gabriel.davis14@example.com,Ottawa,ON,2025-02-08,referral
+1016,Victor,Campbell,victor.campbell83@example.com,Kitchener,ON,2025-07-10,organic
+1017,Marco,Singh,marco.singh46@example.com,Hamilton,ON,2025-02-15,social
+1018,Maya,Zhang,maya.zhang12@example.com,Sudbury,ON,2025-06-18,referral
+1019,Zoe,Lavoie,zoe.lavoie22@example.com,Barrie,ON,2025-05-02,organic
+1020,Mia,Wong,mia.wong93@example.com,Vancouver,BC,2025-06-10,social
+1021,Mei,Nguyen,mei.nguyen60@example.com,Toronto,ON,2025-05-30,organic
+1022,Theo,Martin,theo.martin76@example.com,Ottawa,ON,2026-03-28,paid_search
+1023,Daniel,Rahman,daniel.rahman17@example.com,Barrie,ON,2026-03-16,paid_search
+1024,Jasmine,Cote,jasmine.cote57@example.com,Timmins,ON,2025-06-03,organic
+1025,Noah,Khan,noah.khan72@example.com,Winnipeg,MB,2025-04-14,referral
+1026,Hugo,Kim,hugo.kim52@example.com,Windsor,ON,2025-11-15,organic
+1027,Uma,MacDonald,uma.macdonald87@example.com,Ottawa,ON,2026-01-25,referral
+1028,Mei,Wilson,mei.wilson83@example.com,Mississauga,ON,2025-10-07,organic
+1029,Kareem,Gagnon,kareem.gagnon33@example.com,London,ON,2025-01-03,organic
+1030,Priya,Patel,priya.patel62@example.com,Sault Ste. Marie,ON,2026-05-22,organic
+1031,Amir,Hassan,amir.hassan35@example.com,Barrie,ON,2025-12-28,organic
+1032,Zoe,Gupta,zoe.gupta80@example.com,Hamilton,ON,2026-04-20,social
+1033,Ava,Wong,ava.wong2@example.com,London,ON,2026-02-07,email
+1034,Daniel,MacDonald,daniel.macdonald27@example.com,Calgary,AB,2026-09-08,social
+1035,Dina,Lavoie,dina.lavoie67@example.com,Mississauga,ON,2025-01-29,social
+1036,Olivia,Davis,olivia.davis54@example.com,Toronto,ON,2025-02-09,organic
+1037,Olivia,Smith,olivia.smith61@example.com,Halifax,NS,2026-09-20,social
+1038,Jasmine,MacDonald,jasmine.macdonald33@example.com,Kitchener,ON,2025-06-19,paid_search
+1039,Jack,Johnson,jack.johnson3@example.com,Hamilton,ON,2025-01-11,paid_search
+1040,Julien,Johnson,julien.johnson48@example.com,Mississauga,ON,2026-05-25,organic
+1041,Victor,Nguyen,victor.nguyen53@example.com,London,ON,2025-05-24,referral
+1042,Victor,Smith,victor.smith39@example.com,North Bay,ON,2026-01-30,email
+1043,Rhea,Chen,rhea.chen77@example.com,Winnipeg,MB,2026-06-07,organic
+1044,Jack,MacDonald,jack.macdonald72@example.com,Sudbury,ON,2025-06-27,referral
+1045,Elena,Johnson,elena.johnson68@example.com,Winnipeg,MB,2026-09-01,paid_search
+1046,Kavya,Clarke,kavya.clarke4@example.com,Winnipeg,MB,2026-08-02,paid_search
+1047,Ethan,Perez,ethan.perez66@example.com,Hamilton,ON,2025-10-01,organic
+1048,Hugo,Singh,hugo.singh42@example.com,Barrie,ON,2025-02-22,paid_search
+1049,Sara,Nguyen,sara.nguyen25@example.com,North Bay,ON,2025-10-17,organic
+1050,Olivia,Dubois,olivia.dubois85@example.com,Sudbury,ON,2026-03-05,social
+1051,Sofia,Bouchard,sofia.bouchard23@example.com,Toronto,ON,2025-05-10,organic
+1052,Noah,Martin,noah.martin89@example.com,Toronto,ON,2025-02-18,organic
+1053,Elena,Dubois,elena.dubois70@example.com,Kitchener,ON,2025-07-31,email
+1054,Ivan,Hassan,ivan.hassan12@example.com,Montreal,QC,2025-10-05,paid_search
+1055,Yara,Patel,yara.patel92@example.com,Ottawa,ON,2025-03-03,paid_search
+1056,Marco,Ahmed,marco.ahmed91@example.com,Ottawa,ON,2025-01-19,social
+1057,Hana,MacDonald,hana.macdonald25@example.com,Toronto,ON,2026-03-26,referral
+1058,Ava,Perez,ava.perez22@example.com,Toronto,ON,2026-01-17,organic
+1059,Sofia,Singh,sofia.singh55@example.com,Toronto,ON,2025-04-03,social
+1060,Maya,Miller,maya.miller81@example.com,Winnipeg,MB,2026-02-16,social
+1061,Olivia,Santos,olivia.santos95@example.com,Vancouver,BC,2025-02-02,organic
+1062,Zain,Chen,zain.chen89@example.com,Barrie,ON,2025-06-23,organic
+1063,Elena,Gupta,elena.gupta55@example.com,Toronto,ON,2026-01-01,organic
+1064,Daniel,Khan,daniel.khan2@example.com,Ottawa,ON,2025-05-14,paid_search
+1065,Maya,Khan,maya.khan18@example.com,Hamilton,ON,2026-05-28,organic
+1066,Daniel,Wong,daniel.wong49@example.com,Ottawa,ON,2025-04-08,social
+1067,Priya,Brown,priya.brown42@example.com,Barrie,ON,2026-08-06,referral
+1068,Tariq,Chen,tariq.chen68@example.com,Ottawa,ON,2025-08-30,referral
+1069,Ben,Khan,ben.khan6@example.com,Sudbury,ON,2025-05-20,organic
+1070,Lucas,Young,lucas.young74@example.com,Sault Ste. Marie,ON,2025-02-09,email
+1071,Rhea,Santos,rhea.santos41@example.com,Toronto,ON,2025-10-23,organic
+1072,Ben,Nguyen,ben.nguyen33@example.com,London,ON,2025-02-02,organic
+1073,Amir,Campbell,amir.campbell94@example.com,Hamilton,ON,2026-03-23,email
+1074,Jasmine,Dubois,jasmine.dubois42@example.com,Mississauga,ON,2025-05-26,social
+1075,Maya,Ibrahim,maya.ibrahim41@example.com,Hamilton,ON,2025-07-22,paid_search
+1076,Mei,Ibrahim,mei.ibrahim99@example.com,Mississauga,ON,2025-11-30,organic
+1077,Marco,Zhang,marco.zhang64@example.com,Hamilton,ON,2025-07-11,email
+1078,Kavya,Bouchard,kavya.bouchard38@example.com,Sault Ste. Marie,ON,2025-10-15,organic
+1079,Nadia,Lee,nadia.lee95@example.com,Mississauga,ON,2025-05-03,social
+1080,Jin,Tremblay,jin.tremblay73@example.com,Hamilton,ON,2025-03-09,paid_search
+1081,Ethan,Zhang,ethan.zhang52@example.com,Toronto,ON,2025-01-26,referral
+1082,Ben,Patel,ben.patel26@example.com,Sudbury,ON,2025-07-23,organic
+1083,Zain,Fraser,zain.fraser11@example.com,Vancouver,BC,2025-10-12,organic
+1084,Amir,Gupta,amir.gupta92@example.com,Windsor,ON,2026-02-17,paid_search
+1085,Lucas,Wong,lucas.wong89@example.com,Ottawa,ON,2026-01-19,paid_search
+1086,Mia,Bouchard,mia.bouchard25@example.com,Vancouver,BC,2026-08-26,social
+1087,Marco,Brown,marco.brown9@example.com,Toronto,ON,2025-05-17,organic
+1088,Aiden,Kim,aiden.kim34@example.com,Sudbury,ON,2025-12-15,organic
+1089,Theo,Wilson,theo.wilson75@example.com,Windsor,ON,2025-03-10,paid_search
+1090,Mei,Brown,mei.brown51@example.com,Toronto,ON,2025-10-24,paid_search
+1091,Gabriel,Bouchard,gabriel.bouchard12@example.com,Ottawa,ON,2025-01-04,paid_search
+1092,Rhea,Gagnon,rhea.gagnon26@example.com,Toronto,ON,2025-03-12,paid_search
+1093,Jasmine,Nguyen,jasmine.nguyen22@example.com,Windsor,ON,2025-05-10,paid_search
+1094,Aisha,Martin,aisha.martin73@example.com,North Bay,ON,2025-01-25,referral
+1095,Zoe,Ibrahim,zoe.ibrahim89@example.com,Mississauga,ON,2026-05-15,organic
+1096,Jack,Gagnon,jack.gagnon1@example.com,Sudbury,ON,2025-09-22,referral
+1097,Ava,Singh,ava.singh44@example.com,,,2025-12-24,paid_search
+1098,Jin,Chen,jin.chen84@example.com,Kitchener,ON,2026-03-16,organic
+1099,Camille,Morin,camille.morin77@example.com,Calgary,AB,2026-06-26,social
+1100,Tariq,Young,tariq.young2@example.com,North Bay,ON,2025-03-16,email
+1101,Jasmine,Gagnon,jasmine.gagnon32@example.com,Kitchener,ON,2026-02-23,social
+1102,Zain,Fraser,zain.fraser85@example.com,Hamilton,ON,2025-12-08,paid_search
+1103,Arjun,Davis,arjun.davis19@example.com,Hamilton,ON,2025-01-01,paid_search
+1104,Hana,Anderson,hana.anderson20@example.com,,,2025-08-20,paid_search
+1105,Ryan,Ahmed,ryan.ahmed30@example.com,Sudbury,ON,2025-08-19,referral
+1106,Lucas,Campbell,lucas.campbell57@example.com,Calgary,AB,2026-06-01,referral
+1107,Victor,Lavoie,victor.lavoie53@example.com,North Bay,ON,2025-04-24,paid_search
+1108,Jack,Fraser,jack.fraser27@example.com,London,ON,2025-02-06,organic
+1109,Theo,Kim,theo.kim52@example.com,North Bay,ON,2026-02-22,organic
+1110,Theo,Lee,theo.lee50@example.com,Sudbury,ON,2025-03-09,organic
+1111,Jasmine,Wilson,jasmine.wilson39@example.com,,,2025-07-19,email
+1112,Noah,Morin,noah.morin58@example.com,Ottawa,ON,2026-02-08,organic
+1113,Mia,Lavoie,mia.lavoie26@example.com,Kitchener,ON,2025-01-11,organic
+1114,Liam,Zhang,liam.zhang82@example.com,Halifax,NS,2025-02-17,paid_search
+1115,Ana,Lavoie,ana.lavoie66@example.com,Sault Ste. Marie,ON,2026-03-12,organic
+1116,Ivan,Patel,ivan.patel69@example.com,Thunder Bay,ON,2025-04-10,referral
+1117,Mia,Kim,mia.kim79@example.com,Timmins,ON,2026-04-28,paid_search
+1118,Jin,Morin,jin.morin68@example.com,Sudbury,ON,2025-10-13,paid_search
+1119,Rhea,Miller,rhea.miller72@example.com,Sault Ste. Marie,ON,2026-06-08,social
+1120,Jin,Anderson,jin.anderson63@example.com,Toronto,ON,2025-02-08,social
+1121,Marco,Fraser,marco.fraser4@example.com,Toronto,ON,2025-08-14,paid_search
+1122,Ben,Cote,ben.cote77@example.com,Sudbury,ON,2025-04-05,organic
+1123,Nadia,Clarke,nadia.clarke1@example.com,Ottawa,ON,2025-08-02,organic
+1124,Arjun,MacDonald,arjun.macdonald53@example.com,Mississauga,ON,2026-01-14,organic
+1125,Ben,Gill,ben.gill63@example.com,London,ON,2026-06-23,organic
+1126,Elena,Cote,elena.cote57@example.com,Toronto,ON,2025-01-30,paid_search
+1127,Ben,Wong,ben.wong17@example.com,Mississauga,ON,2026-04-24,organic
+1128,Tariq,Roy,tariq.roy57@example.com,Halifax,NS,2025-08-06,paid_search
+1129,Lucas,Santos,lucas.santos7@example.com,Sudbury,ON,2025-06-22,paid_search
+1130,Liam,Campbell,liam.campbell32@example.com,London,ON,2025-04-26,paid_search
+1131,Jin,Fraser,jin.fraser78@example.com,Toronto,ON,2025-01-03,referral
+1132,Hana,Perez,hana.perez47@example.com,Thunder Bay,ON,2026-04-17,email
+1133,Arjun,Patel,arjun.patel99@example.com,Sudbury,ON,2026-06-24,social
+1134,Jack,Perez,jack.perez40@example.com,Montreal,QC,2026-06-10,organic
+1135,Rafael,Tremblay,rafael.tremblay5@example.com,,,2025-03-17,paid_search
+1136,Hana,Tremblay,hana.tremblay34@example.com,Mississauga,ON,2025-08-30,organic
+1137,Zoe,Zhang,zoe.zhang67@example.com,Ottawa,ON,2025-08-18,organic
+1138,Hana,Lavoie,hana.lavoie1@example.com,Kitchener,ON,2025-02-10,email
+1139,Rafael,MacDonald,rafael.macdonald82@example.com,North Bay,ON,2026-02-10,organic
+1140,Jasmine,Nguyen,jasmine.nguyen78@example.com,Kitchener,ON,2026-01-05,paid_search
+1141,Ben,Miller,ben.miller97@example.com,Halifax,NS,2026-06-19,social
+1142,Priya,Lee,priya.lee98@example.com,Ottawa,ON,2025-11-12,paid_search
+1143,Yara,Martin,yara.martin2@example.com,Sault Ste. Marie,ON,2026-04-22,paid_search
+1144,Maya,Bouchard,maya.bouchard38@example.com,Montreal,QC,2025-12-05,paid_search
+1145,Noah,Brown,noah.brown34@example.com,Ottawa,ON,2025-02-13,paid_search
+1146,Uma,Johnson,uma.johnson10@example.com,Toronto,ON,2025-01-01,organic
+1147,Ana,Miller,ana.miller70@example.com,Winnipeg,MB,2026-08-09,paid_search
+1148,Tariq,Wilson,tariq.wilson38@example.com,Kitchener,ON,2025-10-06,organic
+1149,Lena,Hassan,lena.hassan14@example.com,Halifax,NS,2025-02-13,referral
+1150,Arjun,Zhang,arjun.zhang5@example.com,Thunder Bay,ON,2026-06-23,organic
+1151,Olivia,Anderson,olivia.anderson53@example.com,Montreal,QC,2026-03-26,email
+1152,Olivia,Rahman,olivia.rahman40@example.com,Sudbury,ON,2025-03-21,organic
+1153,Ryan,Wilson,ryan.wilson7@example.com,Ottawa,ON,2025-03-08,organic
+1154,Omar,Patel,omar.patel82@example.com,Mississauga,ON,2026-05-14,organic
+1155,Aiden,Kim,aiden.kim17@example.com,Sudbury,ON,2026-04-11,paid_search
+1156,Hugo,Roy,hugo.roy42@example.com,Toronto,ON,2025-10-11,organic
+1157,Theo,Kim,theo.kim60@example.com,Sudbury,ON,2025-01-09,paid_search
+1158,Julien,Nguyen,julien.nguyen2@example.com,,,2026-09-03,paid_search
+1159,Sofia,Chen,sofia.chen44@example.com,Toronto,ON,2025-05-08,organic
+1160,Ivan,Wilson,ivan.wilson10@example.com,,,2025-11-07,social
+1161,Maya,Wong,maya.wong18@example.com,Sault Ste. Marie,ON,2025-06-20,organic
+1162,Emma,Wong,emma.wong33@example.com,Sudbury,ON,2025-04-24,social
+1163,Marco,Miller,marco.miller47@example.com,North Bay,ON,2025-03-22,paid_search
+1164,Ryan,Davis,ryan.davis69@example.com,Toronto,ON,2025-12-19,organic
+1165,Olivia,Martin,olivia.martin36@example.com,Toronto,ON,2026-06-02,paid_search
+1166,Amir,Lavoie,amir.lavoie92@example.com,Mississauga,ON,2025-03-02,organic
+1167,Ivan,Cote,ivan.cote54@example.com,Barrie,ON,2025-04-28,organic
+1168,Jack,Kim,jack.kim90@example.com,Winnipeg,MB,2025-05-21,email
+1169,Ana,Campbell,ana.campbell26@example.com,Mississauga,ON,2025-05-17,social
+1170,Noah,Ahmed,noah.ahmed4@example.com,Toronto,ON,2025-01-08,social
+1171,Jack,Clarke,jack.clarke53@example.com,Winnipeg,MB,2025-04-25,social
+1172,Noah,Hassan,noah.hassan74@example.com,Montreal,QC,2025-01-13,social
+1173,Tariq,Singh,tariq.singh84@example.com,Sudbury,ON,2026-02-05,organic
+1174,Julien,Gill,julien.gill82@example.com,Toronto,ON,2025-10-23,paid_search
+1175,Kareem,Wilson,kareem.wilson83@example.com,Sudbury,ON,2026-06-12,referral
+1176,Aisha,Perez,aisha.perez83@example.com,Barrie,ON,2025-09-03,social
+1177,Marco,Dubois,marco.dubois16@example.com,Mississauga,ON,2026-06-18,social
+1178,Sara,Martin,sara.martin32@example.com,Toronto,ON,2026-08-27,paid_search
+1179,Sara,Gupta,sara.gupta88@example.com,Toronto,ON,2025-05-09,organic
+1180,Amir,Tremblay,amir.tremblay83@example.com,Toronto,ON,2025-09-08,organic
+1181,Emma,Lavoie,emma.lavoie37@example.com,North Bay,ON,2025-03-16,paid_search
+1182,Liam,Wong,liam.wong49@example.com,Sudbury,ON,2025-08-12,referral
+1183,Ethan,Wilson,ethan.wilson91@example.com,London,ON,2026-03-13,email
+1184,Hana,Lee,hana.lee95@example.com,Toronto,ON,2026-09-12,referral
+1185,Jasmine,Wong,jasmine.wong35@example.com,Toronto,ON,2025-01-31,organic
+1186,Maya,Gagnon,maya.gagnon40@example.com,Sault Ste. Marie,ON,2025-04-07,social
+1187,Maya,Roy,maya.roy93@example.com,Toronto,ON,2025-01-13,referral
+1188,Isabelle,Chen,isabelle.chen60@example.com,Toronto,ON,2025-12-25,organic
+1189,Arjun,Morin,arjun.morin96@example.com,Hamilton,ON,2026-07-04,organic
+1190,Ava,Cote,ava.cote91@example.com,Toronto,ON,2026-02-12,organic
+1191,Chloe,Ibrahim,chloe.ibrahim41@example.com,Sault Ste. Marie,ON,2026-08-20,email
+1192,Hana,Khan,hana.khan22@example.com,Toronto,ON,2025-01-03,paid_search
+1193,Hugo,Santos,hugo.santos97@example.com,Halifax,NS,2025-05-09,social
+1194,Yara,Campbell,yara.campbell35@example.com,Sudbury,ON,2026-04-03,paid_search
+1195,Elena,Nguyen,elena.nguyen52@example.com,Kitchener,ON,2026-08-31,referral
+1196,Theo,Ahmed,theo.ahmed8@example.com,Sudbury,ON,2026-03-13,referral
+1197,Uma,Bouchard,uma.bouchard3@example.com,Windsor,ON,2025-12-21,organic
+1198,Ana,Anderson,ana.anderson99@example.com,Sudbury,ON,2025-11-28,organic
+1199,Zain,Dubois,zain.dubois5@example.com,Winnipeg,MB,2025-09-20,paid_search
+1200,Amir,Gill,amir.gill65@example.com,Hamilton,ON,2025-01-11,paid_search
+1201,Theo,Tremblay,theo.tremblay54@example.com,Sudbury,ON,2026-02-08,email
+1202,Kareem,Campbell,kareem.campbell31@example.com,Toronto,ON,2026-07-11,paid_search
+1203,Ava,Ahmed,ava.ahmed31@example.com,Toronto,ON,2025-03-19,email
+1204,Ana,Lavoie,ana.lavoie1@example.com,Toronto,ON,2025-01-01,organic
+1205,Kavya,Gill,kavya.gill56@example.com,Winnipeg,MB,2026-03-25,paid_search
+1206,Jasmine,Martin,jasmine.martin6@example.com,Kitchener,ON,2025-03-15,organic
+1207,Chloe,Patel,chloe.patel12@example.com,Hamilton,ON,2025-08-17,referral
+1208,Zoe,Rahman,zoe.rahman64@example.com,Montreal,QC,2025-09-08,social
+1209,Elena,Zhang,elena.zhang77@example.com,Toronto,ON,2026-02-20,referral
+1210,Arjun,Gill,arjun.gill17@example.com,Sudbury,ON,2025-03-25,email
+1211,Tariq,Clarke,tariq.clarke72@example.com,,,2025-10-04,referral
+1212,Chloe,Zhang,chloe.zhang14@example.com,Kitchener,ON,2026-06-12,email
+1213,Mei,Anderson,mei.anderson44@example.com,Mississauga,ON,2026-01-18,organic
+1214,Noah,Lee,noah.lee30@example.com,Ottawa,ON,2025-01-18,referral
+1215,Ben,Nguyen,ben.nguyen67@example.com,Sault Ste. Marie,ON,2025-09-24,organic
+1216,Jack,Zhang,jack.zhang93@example.com,Toronto,ON,2025-09-01,organic
+1217,Hugo,Cote,hugo.cote88@example.com,Halifax,NS,2025-08-27,email
+1218,Uma,Fraser,uma.fraser96@example.com,Toronto,ON,2025-07-07,email
+1219,Kareem,Dubois,kareem.dubois4@example.com,Toronto,ON,2025-10-07,email
+1220,Rhea,Gagnon,rhea.gagnon92@example.com,North Bay,ON,2025-01-04,email
+1221,Uma,Lavoie,uma.lavoie96@example.com,Toronto,ON,2025-03-03,organic
+1222,Kareem,Fraser,kareem.fraser89@example.com,Calgary,AB,2025-10-10,email
+1223,Tariq,Miller,tariq.miller83@example.com,Sudbury,ON,2025-01-13,organic
+1224,Nadia,Zhang,nadia.zhang39@example.com,Mississauga,ON,2026-01-22,organic
+1225,Camille,Roy,camille.roy14@example.com,Sudbury,ON,2026-07-21,organic
+1226,Yara,Dubois,yara.dubois76@example.com,Toronto,ON,2025-06-17,paid_search
+1227,Yara,Perez,yara.perez83@example.com,Toronto,ON,2026-03-06,paid_search
+1228,Chloe,Roy,chloe.roy66@example.com,Sudbury,ON,2025-07-20,organic
+1229,Theo,Zhang,theo.zhang13@example.com,Sudbury,ON,2025-07-24,organic
+1230,Jin,Nguyen,jin.nguyen22@example.com,Sudbury,ON,2025-01-20,organic
+1231,Noah,Nguyen,noah.nguyen51@example.com,Thunder Bay,ON,2026-09-26,social
+1232,Jasmine,Gupta,jasmine.gupta38@example.com,Sudbury,ON,2025-04-29,referral
+1233,Jack,Lee,jack.lee96@example.com,Toronto,ON,2025-01-10,paid_search
+1234,Ana,Brown,ana.brown93@example.com,Montreal,QC,2025-08-14,paid_search
+1235,Arjun,Santos,arjun.santos22@example.com,Windsor,ON,2025-01-25,referral
+1236,Hugo,Hassan,hugo.hassan54@example.com,Ottawa,ON,2025-04-15,organic
+1237,Julien,Bouchard,julien.bouchard53@example.com,London,ON,2025-11-29,email
+1238,Aisha,Clarke,aisha.clarke50@example.com,Toronto,ON,2025-06-06,organic
+1239,Emma,Anderson,emma.anderson21@example.com,Ottawa,ON,2025-02-26,organic
+1240,Dina,Ahmed,dina.ahmed11@example.com,Thunder Bay,ON,2025-07-02,organic
+1241,Chloe,Johnson,chloe.johnson28@example.com,Sault Ste. Marie,ON,2026-05-13,organic
+1242,Omar,Anderson,omar.anderson28@example.com,Sudbury,ON,2026-06-13,email
+1243,Kareem,Campbell,kareem.campbell17@example.com,Ottawa,ON,2026-05-17,social
+1244,Victor,Davis,victor.davis90@example.com,Calgary,AB,2025-03-19,referral
+1245,Nadia,Morin,nadia.morin69@example.com,Sault Ste. Marie,ON,2025-03-29,paid_search
+1246,Kareem,Bouchard,kareem.bouchard40@example.com,Sudbury,ON,2025-05-16,email
+1247,Isabelle,Morin,isabelle.morin87@example.com,,,2025-10-09,organic
+1248,Chloe,Rahman,chloe.rahman10@example.com,Timmins,ON,2025-08-11,social
+1249,Dina,Singh,dina.singh57@example.com,North Bay,ON,2025-05-28,paid_search
+1250,Amir,Khan,amir.khan60@example.com,Vancouver,BC,2026-05-20,organic
+1251,Rhea,Hassan,rhea.hassan47@example.com,Sudbury,ON,2025-07-17,organic
+1252,Isabelle,Young,isabelle.young2@example.com,Calgary,AB,2025-07-18,social
+1253,Ana,MacDonald,ana.macdonald30@example.com,Thunder Bay,ON,2025-08-08,organic
+1254,Maya,Fraser,maya.fraser60@example.com,Montreal,QC,2025-07-15,organic
+1255,Rhea,Nguyen,rhea.nguyen77@example.com,Toronto,ON,2025-05-11,organic
+1256,Amir,Ibrahim,amir.ibrahim54@example.com,Sudbury,ON,2025-08-30,paid_search
+1257,Chloe,Patel,chloe.patel1@example.com,Barrie,ON,2025-07-15,paid_search
+1258,Kavya,Smith,kavya.smith11@example.com,Ottawa,ON,2025-11-28,paid_search
+1259,Ivan,Wilson,ivan.wilson23@example.com,London,ON,2025-01-19,organic
+1260,Gabriel,Young,gabriel.young5@example.com,Sault Ste. Marie,ON,2025-08-11,social
+1261,Noah,Rahman,noah.rahman93@example.com,Ottawa,ON,2025-07-28,email
+1262,Uma,Singh,uma.singh73@example.com,Sudbury,ON,2025-01-31,paid_search
+1263,Mei,Patel,mei.patel97@example.com,Sudbury,ON,2026-01-21,paid_search
+1264,Chloe,Fraser,chloe.fraser3@example.com,Montreal,QC,2026-06-09,email
+1265,Ryan,Perez,ryan.perez80@example.com,Toronto,ON,2026-08-28,paid_search
+1266,Ivan,Gagnon,ivan.gagnon7@example.com,Hamilton,ON,2026-09-21,social
+1267,Victor,Dubois,victor.dubois9@example.com,Toronto,ON,2025-05-08,referral
+1268,Zoe,Rahman,zoe.rahman50@example.com,Calgary,AB,2025-05-06,organic
+1269,Dina,Gupta,dina.gupta57@example.com,Thunder Bay,ON,2025-02-11,paid_search
+1270,Dina,Chen,dina.chen28@example.com,Thunder Bay,ON,2025-05-14,referral
+1271,Zain,Kim,zain.kim78@example.com,Windsor,ON,2025-05-22,email
+1272,Kareem,Rahman,kareem.rahman23@example.com,Ottawa,ON,2025-02-21,organic
+1273,Priya,Young,priya.young22@example.com,Toronto,ON,2025-01-10,organic
+1274,Victor,Perez,victor.perez76@example.com,Hamilton,ON,2026-02-16,organic
+1275,Dina,Roy,dina.roy25@example.com,Toronto,ON,2026-05-24,email
+1276,Camille,Gagnon,camille.gagnon63@example.com,Toronto,ON,2026-06-26,organic
+1277,Sofia,Anderson,sofia.anderson82@example.com,Barrie,ON,2026-07-08,social
+1278,Rhea,Miller,rhea.miller63@example.com,Toronto,ON,2025-03-01,organic
+1279,Jasmine,Morin,jasmine.morin65@example.com,Hamilton,ON,2026-08-27,organic
+1280,Ben,Singh,ben.singh42@example.com,Toronto,ON,2026-02-10,organic
+1281,Amir,Perez,amir.perez1@example.com,Toronto,ON,2026-07-08,email
+1282,Arjun,Campbell,arjun.campbell97@example.com,Kitchener,ON,2025-05-18,organic
+1283,Amir,Young,amir.young82@example.com,Ottawa,ON,2025-08-10,paid_search
+1284,Jasmine,Bouchard,jasmine.bouchard92@example.com,Windsor,ON,2025-01-08,paid_search
+1285,Camille,Kim,camille.kim15@example.com,Winnipeg,MB,2025-10-25,organic
+1286,Gabriel,Campbell,gabriel.campbell6@example.com,Ottawa,ON,2026-04-27,organic
+1287,Tariq,Anderson,tariq.anderson60@example.com,Timmins,ON,2025-11-01,paid_search
+1288,Arjun,MacDonald,arjun.macdonald80@example.com,Sault Ste. Marie,ON,2026-05-19,paid_search
+1289,Aiden,Campbell,aiden.campbell44@example.com,London,ON,2025-01-20,social
+1290,Isabelle,Johnson,isabelle.johnson14@example.com,Sudbury,ON,2025-05-27,email
+1291,Mei,Martin,mei.martin81@example.com,Toronto,ON,2026-03-15,social
+1292,Zain,Campbell,zain.campbell38@example.com,Toronto,ON,2025-01-15,social
+1293,Yara,Bouchard,yara.bouchard22@example.com,Kitchener,ON,2026-06-07,email
+1294,Arjun,Wong,arjun.wong95@example.com,Windsor,ON,2026-01-01,organic
+1295,Priya,MacDonald,priya.macdonald39@example.com,Sudbury,ON,2025-04-23,organic
+1296,Mei,Hassan,mei.hassan73@example.com,Ottawa,ON,2025-04-04,referral
+1297,Omar,Lee,omar.lee68@example.com,Sudbury,ON,2026-06-08,organic
+1298,Isabelle,Dubois,isabelle.dubois93@example.com,Toronto,ON,2025-05-04,paid_search
+1299,Jasmine,Zhang,jasmine.zhang6@example.com,Kitchener,ON,2025-05-03,social
+1300,Julien,Miller,julien.miller56@example.com,Ottawa,ON,2025-10-10,social
+1301,Zoe,Davis,zoe.davis35@example.com,Toronto,ON,2026-03-25,organic
+1302,Zoe,Perez,zoe.perez54@example.com,Hamilton,ON,2025-01-26,social
+1303,Hana,Anderson,hana.anderson28@example.com,Ottawa,ON,2026-01-04,paid_search
+1304,Julien,Anderson,julien.anderson21@example.com,Thunder Bay,ON,2025-07-29,paid_search
+1305,Kavya,Wilson,kavya.wilson85@example.com,Windsor,ON,2026-01-13,organic
+1306,Arjun,Roy,arjun.roy35@example.com,Vancouver,BC,2025-12-11,organic
+1307,Aisha,Singh,aisha.singh50@example.com,Mississauga,ON,2025-05-07,organic
+1308,Olivia,Tremblay,olivia.tremblay10@example.com,Windsor,ON,2026-01-03,paid_search
+1309,Ivan,Khan,ivan.khan9@example.com,Mississauga,ON,2025-01-26,email
+1310,Fatima,Johnson,fatima.johnson55@example.com,Vancouver,BC,2025-01-14,social
+1311,Jack,Perez,jack.perez35@example.com,Sudbury,ON,2026-08-16,organic
+1312,Priya,Miller,priya.miller98@example.com,North Bay,ON,2026-08-22,organic
+1313,Ana,Rahman,ana.rahman57@example.com,Ottawa,ON,2026-08-02,paid_search
+1314,Mei,Dubois,mei.dubois50@example.com,Toronto,ON,2026-08-30,paid_search
+1315,Arjun,Fraser,arjun.fraser2@example.com,Halifax,NS,2026-06-17,organic
+1316,Hugo,Wong,hugo.wong43@example.com,Barrie,ON,2025-06-13,referral
+1317,Aisha,Fraser,aisha.fraser60@example.com,Montreal,QC,2026-01-25,referral
+1318,Tariq,Rahman,tariq.rahman49@example.com,,,2025-10-19,paid_search
+1319,Mei,Smith,mei.smith52@example.com,London,ON,2025-04-25,referral
+1320,Camille,Singh,camille.singh83@example.com,London,ON,2025-11-29,organic
+1321,Mei,MacDonald,mei.macdonald48@example.com,Sudbury,ON,2025-07-29,paid_search
+1322,Zain,Kim,zain.kim93@example.com,Toronto,ON,2026-01-01,referral
+1323,Theo,Patel,theo.patel93@example.com,London,ON,2025-09-18,paid_search
+1324,Jasmine,Gill,jasmine.gill34@example.com,Vancouver,BC,2025-01-23,referral
+1325,Nadia,Roy,nadia.roy67@example.com,Mississauga,ON,2025-01-22,referral
+1326,Emma,Patel,emma.patel26@example.com,Sudbury,ON,2025-12-26,organic
+1327,Arjun,Young,arjun.young18@example.com,Toronto,ON,2025-01-30,social
+1328,Ethan,Lee,ethan.lee68@example.com,Sudbury,ON,2025-08-27,organic
+1329,Mei,Roy,mei.roy44@example.com,Halifax,NS,2025-09-30,social
+1330,Jin,Santos,jin.santos50@example.com,Sudbury,ON,2025-11-24,social
+1331,Omar,Gagnon,omar.gagnon95@example.com,Toronto,ON,2026-07-28,email
+1332,Emma,Davis,emma.davis36@example.com,Calgary,AB,2025-08-21,organic
+1333,Camille,Khan,camille.khan16@example.com,Montreal,QC,2025-04-02,organic
+1334,Ethan,Singh,ethan.singh52@example.com,Mississauga,ON,2025-12-27,paid_search
+1335,Zoe,Lavoie,zoe.lavoie60@example.com,Toronto,ON,2025-09-14,organic
+1336,Fatima,Chen,fatima.chen48@example.com,North Bay,ON,2025-03-09,organic
+1337,Zoe,Wong,zoe.wong15@example.com,Hamilton,ON,2026-07-05,organic
+1338,Victor,Rahman,victor.rahman2@example.com,Montreal,QC,2025-05-05,organic
+1339,Amir,Young,amir.young67@example.com,Toronto,ON,2026-04-12,organic
+1340,Ethan,Cote,ethan.cote26@example.com,,,2026-08-26,organic
+1341,Ava,Smith,ava.smith66@example.com,Toronto,ON,2026-07-13,organic
+1342,Isabelle,MacDonald,isabelle.macdonald97@example.com,Toronto,ON,2026-04-26,email
+1343,Arjun,Lee,arjun.lee22@example.com,Ottawa,ON,2026-08-15,referral
+1344,Marco,Campbell,marco.campbell20@example.com,Ottawa,ON,2026-09-11,organic
+1345,Victor,Lavoie,victor.lavoie9@example.com,Ottawa,ON,2025-12-28,organic
+1346,Tariq,Morin,tariq.morin80@example.com,Vancouver,BC,2025-03-16,email
+1347,Jasmine,Wilson,jasmine.wilson96@example.com,Vancouver,BC,2025-04-15,social
+1348,Ana,Gagnon,ana.gagnon92@example.com,Sudbury,ON,2025-09-07,paid_search
+1349,Noah,Nguyen,noah.nguyen55@example.com,London,ON,2025-06-23,organic
+1350,Jin,Chen,jin.chen29@example.com,Windsor,ON,2026-09-07,organic
+1351,Ryan,Bouchard,ryan.bouchard50@example.com,Toronto,ON,2025-08-25,organic
+1352,Julien,MacDonald,julien.macdonald22@example.com,Toronto,ON,2025-08-23,organic
+1353,Hugo,Tremblay,hugo.tremblay7@example.com,Calgary,AB,2025-10-20,email
+1354,Dina,Dubois,dina.dubois79@example.com,,,2025-07-22,referral
+1355,Nadia,Zhang,nadia.zhang65@example.com,Toronto,ON,2025-10-10,referral
+1356,Ethan,Ahmed,ethan.ahmed76@example.com,Ottawa,ON,2026-04-22,social
+1357,Aiden,Perez,aiden.perez19@example.com,Kitchener,ON,2025-02-12,referral
+1358,Julien,Lee,julien.lee72@example.com,Ottawa,ON,2025-04-14,referral
+1359,Hana,Kim,hana.kim45@example.com,Toronto,ON,2025-09-24,organic
+1360,Omar,Lee,omar.lee47@example.com,Sault Ste. Marie,ON,2026-07-13,social
+1361,Emma,Fraser,emma.fraser70@example.com,Calgary,AB,2025-12-01,organic
+1362,Amir,Gill,amir.gill25@example.com,Sudbury,ON,2026-02-21,social
+1363,Lucas,Gupta,lucas.gupta47@example.com,Toronto,ON,2025-01-03,organic
+1364,Lena,Smith,lena.smith98@example.com,Hamilton,ON,2025-01-02,paid_search
+1365,Jack,Cote,jack.cote71@example.com,Sault Ste. Marie,ON,2026-09-11,organic
+1366,Yara,Santos,yara.santos31@example.com,Toronto,ON,2025-07-26,social
+1367,Olivia,Gagnon,olivia.gagnon89@example.com,Mississauga,ON,2026-04-25,organic
+1368,Amir,Santos,amir.santos73@example.com,Hamilton,ON,2025-03-23,organic
+1369,Kavya,Fraser,kavya.fraser54@example.com,Toronto,ON,2025-08-21,organic
+1370,Hugo,Lee,hugo.lee29@example.com,Toronto,ON,2025-03-05,paid_search
+1371,Olivia,Ahmed,olivia.ahmed38@example.com,Sudbury,ON,2025-05-03,social
+1372,Ben,Singh,ben.singh88@example.com,Sudbury,ON,2025-03-04,social
+1373,Dina,MacDonald,dina.macdonald42@example.com,Sudbury,ON,2026-08-21,organic
+1374,Arjun,Nguyen,arjun.nguyen52@example.com,Ottawa,ON,2026-09-23,paid_search
+1375,Jin,Dubois,jin.dubois72@example.com,Sudbury,ON,2026-08-27,social
+1376,Uma,Chen,uma.chen45@example.com,Hamilton,ON,2025-10-12,paid_search
+1377,Omar,Gill,omar.gill76@example.com,Timmins,ON,2025-10-08,social
+1378,Aisha,Rahman,aisha.rahman29@example.com,Kitchener,ON,2025-09-09,email
+1379,Lucas,MacDonald,lucas.macdonald50@example.com,Calgary,AB,2025-09-25,organic
+1380,Kareem,Morin,kareem.morin39@example.com,Winnipeg,MB,2026-06-28,email
+1381,Lucas,Rahman,lucas.rahman56@example.com,Toronto,ON,2026-08-12,paid_search
+1382,Sofia,Cote,sofia.cote56@example.com,Mississauga,ON,2025-09-03,social
+1383,Emma,Kim,emma.kim41@example.com,Toronto,ON,2026-06-29,email
+1384,Omar,Patel,omar.patel24@example.com,Ottawa,ON,2026-08-28,paid_search
+1385,Olivia,Ibrahim,olivia.ibrahim96@example.com,Ottawa,ON,2026-08-11,paid_search
+1386,Ben,MacDonald,ben.macdonald86@example.com,Hamilton,ON,2026-09-23,organic
+1387,Ryan,Gill,ryan.gill97@example.com,North Bay,ON,2025-08-29,organic
+1388,Sofia,Morin,sofia.morin40@example.com,Toronto,ON,2026-02-02,organic
+1389,Ben,Wong,ben.wong65@example.com,Sudbury,ON,2026-08-04,referral
+1390,Gabriel,Gupta,gabriel.gupta7@example.com,London,ON,2025-02-05,organic
+1391,Aiden,Lavoie,aiden.lavoie24@example.com,Ottawa,ON,2025-11-16,organic
+1392,Sofia,Smith,sofia.smith91@example.com,,,2025-09-13,referral
+1393,Hana,Gill,hana.gill11@example.com,Windsor,ON,2026-09-18,paid_search
+1394,Lena,Santos,lena.santos98@example.com,Sault Ste. Marie,ON,2025-06-22,email
+1395,Tariq,Fraser,tariq.fraser93@example.com,Windsor,ON,2025-07-06,email
+1396,Liam,Lee,liam.lee64@example.com,Toronto,ON,2025-02-10,organic
+1397,Lena,Bouchard,lena.bouchard8@example.com,Sudbury,ON,2025-01-16,social
+1398,Elena,Morin,elena.morin77@example.com,Toronto,ON,2025-07-16,paid_search
+1399,Lena,Rahman,lena.rahman55@example.com,Ottawa,ON,2026-01-12,social
+1400,Arjun,Morin,arjun.morin26@example.com,Hamilton,ON,2025-11-28,organic
+1401,Hugo,Wilson,hugo.wilson66@example.com,Sudbury,ON,2025-11-10,social
+1402,Aisha,Gupta,aisha.gupta61@example.com,Calgary,AB,2026-05-05,paid_search
+1403,Maya,Kim,maya.kim18@example.com,Montreal,QC,2025-12-11,organic
+1404,Yara,Ahmed,yara.ahmed71@example.com,Mississauga,ON,2025-01-14,organic
+1405,Yara,Wong,yara.wong21@example.com,Sault Ste. Marie,ON,2025-01-08,paid_search
+1406,Rafael,Martin,rafael.martin39@example.com,Winnipeg,MB,2026-08-15,organic
+1407,Zoe,Singh,zoe.singh39@example.com,Montreal,QC,2026-09-21,organic
+1408,Daniel,Martin,daniel.martin6@example.com,London,ON,2025-03-10,paid_search
+1409,Gabriel,Wilson,gabriel.wilson45@example.com,Toronto,ON,2026-07-19,organic
+1410,Rafael,Bouchard,rafael.bouchard58@example.com,Sudbury,ON,2025-05-16,email
+1411,Ava,Ibrahim,ava.ibrahim98@example.com,Sudbury,ON,2025-09-13,social
+1412,Omar,Singh,omar.singh51@example.com,Kitchener,ON,2026-02-07,organic
+1413,Sofia,Davis,sofia.davis37@example.com,Thunder Bay,ON,2026-09-01,paid_search
+1414,Camille,Rahman,camille.rahman71@example.com,Sudbury,ON,2026-04-15,referral
+1415,Victor,Singh,victor.singh74@example.com,North Bay,ON,2025-05-20,social
+1416,Chloe,Wong,chloe.wong34@example.com,Windsor,ON,2026-01-15,social
+1417,Chloe,Davis,chloe.davis4@example.com,Windsor,ON,2025-03-08,social
+1418,Fatima,Lee,fatima.lee57@example.com,Montreal,QC,2025-01-29,paid_search
+1419,Amir,Khan,amir.khan12@example.com,Toronto,ON,2025-03-25,referral
+1420,Daniel,Chen,daniel.chen77@example.com,London,ON,2025-07-26,social
+1421,Jasmine,Morin,jasmine.morin97@example.com,Montreal,QC,2025-10-05,social
+1422,Liam,Gagnon,liam.gagnon65@example.com,Sudbury,ON,2025-01-27,organic
+1423,Gabriel,Lee,gabriel.lee66@example.com,Toronto,ON,2026-05-09,paid_search
+1424,Emma,Bouchard,emma.bouchard90@example.com,Sudbury,ON,2025-01-09,social
+1425,Ryan,Roy,ryan.roy40@example.com,Ottawa,ON,2026-07-30,paid_search
+1426,Marco,Wilson,marco.wilson2@example.com,Thunder Bay,ON,2025-01-29,paid_search
+1427,Amir,Davis,amir.davis79@example.com,Sudbury,ON,2026-09-09,email
+1428,Ethan,Brown,ethan.brown64@example.com,Sault Ste. Marie,ON,2025-08-11,referral
+1429,Mei,Chen,mei.chen55@example.com,Toronto,ON,2025-02-18,organic
+1430,Noah,Singh,noah.singh23@example.com,Vancouver,BC,2026-05-22,organic
+1431,Hugo,Martin,hugo.martin9@example.com,Toronto,ON,2026-06-09,paid_search
+1432,Nadia,Wong,nadia.wong40@example.com,Sault Ste. Marie,ON,2025-02-03,referral
+1433,Emma,Rahman,emma.rahman5@example.com,Montreal,QC,2025-07-21,email
+1434,Dina,Chen,dina.chen89@example.com,Windsor,ON,2025-03-18,paid_search
+1435,Liam,Cote,liam.cote42@example.com,Sudbury,ON,2025-02-28,email
+1436,Omar,Hassan,omar.hassan43@example.com,London,ON,2026-02-17,email
+1437,Aisha,Singh,aisha.singh12@example.com,Sault Ste. Marie,ON,2026-01-23,organic
+1438,Julien,Rahman,julien.rahman55@example.com,Sudbury,ON,2025-08-02,paid_search
+1439,Chloe,Johnson,chloe.johnson84@example.com,Toronto,ON,2025-11-14,paid_search
+1440,Camille,Khan,camille.khan85@example.com,Thunder Bay,ON,2026-02-26,referral
+1441,Zain,Gagnon,zain.gagnon44@example.com,Toronto,ON,2025-01-13,referral
+1442,Mia,Wilson,mia.wilson13@example.com,Sudbury,ON,2025-04-20,paid_search
+1443,Yara,Gill,yara.gill69@example.com,London,ON,2025-03-29,organic
+1444,Amir,Brown,amir.brown79@example.com,Toronto,ON,2025-03-11,organic
+1445,Isabelle,Lavoie,isabelle.lavoie36@example.com,Sudbury,ON,2025-03-06,organic
+1446,Fatima,Lee,fatima.lee20@example.com,North Bay,ON,2026-08-13,organic
+1447,Olivia,Ibrahim,olivia.ibrahim58@example.com,Sault Ste. Marie,ON,2026-07-09,social
+1448,Omar,Young,omar.young16@example.com,Montreal,QC,2025-11-27,email
+1449,Theo,Lee,theo.lee44@example.com,Kitchener,ON,2025-03-23,paid_search
+1450,Camille,Clarke,camille.clarke53@example.com,Sault Ste. Marie,ON,2026-04-06,paid_search
+1451,Theo,Davis,theo.davis5@example.com,Ottawa,ON,2025-10-30,organic
+1452,Jack,Patel,jack.patel55@example.com,Sudbury,ON,2025-08-31,referral
+1453,Camille,Campbell,camille.campbell93@example.com,Barrie,ON,2026-06-05,organic
+1454,Kareem,Wong,kareem.wong71@example.com,Ottawa,ON,2025-05-02,social
+1455,Theo,Johnson,theo.johnson63@example.com,Kitchener,ON,2025-12-27,organic
+1456,Zoe,Gill,zoe.gill69@example.com,Sudbury,ON,2025-05-07,organic
+1457,Priya,Lavoie,priya.lavoie40@example.com,Halifax,NS,2025-04-07,email
+1458,Arjun,Clarke,arjun.clarke9@example.com,Hamilton,ON,2025-11-27,referral
+1459,Marco,Wilson,marco.wilson84@example.com,Sault Ste. Marie,ON,2025-04-30,organic
+1460,Isabelle,Anderson,isabelle.anderson92@example.com,Toronto,ON,2026-04-02,social
+1461,Nadia,Anderson,nadia.anderson44@example.com,Montreal,QC,2025-06-17,referral
+1462,Amir,Campbell,amir.campbell50@example.com,Timmins,ON,2025-11-09,organic
+1463,Ana,Bouchard,ana.bouchard68@example.com,Toronto,ON,2025-04-22,organic
+1464,Aiden,Gill,aiden.gill49@example.com,North Bay,ON,2025-05-29,organic
+1465,Julien,Davis,julien.davis59@example.com,Mississauga,ON,2025-05-21,organic
+1466,Fatima,Hassan,fatima.hassan88@example.com,Ottawa,ON,2025-07-12,referral
+1467,Ana,Brown,ana.brown71@example.com,Sudbury,ON,2025-02-11,referral
+1468,Jack,Hassan,jack.hassan97@example.com,Calgary,AB,2025-01-13,social
+1469,Aiden,Cote,aiden.cote78@example.com,Toronto,ON,2025-06-18,referral
+1470,Ben,Ahmed,ben.ahmed62@example.com,Sudbury,ON,2025-02-04,organic
+1471,Maya,Fraser,maya.fraser75@example.com,North Bay,ON,2025-02-20,referral
+1472,Isabelle,Young,isabelle.young48@example.com,Sudbury,ON,2026-06-22,organic
+1473,Uma,Ibrahim,uma.ibrahim12@example.com,Sault Ste. Marie,ON,2026-01-09,organic
+1474,Aisha,Ahmed,aisha.ahmed55@example.com,Thunder Bay,ON,2026-02-05,organic
+1475,Hugo,Bouchard,hugo.bouchard55@example.com,Sudbury,ON,2025-12-25,social
+1476,Ryan,Gupta,ryan.gupta51@example.com,Vancouver,BC,2025-07-18,referral
+1477,Camille,Gupta,camille.gupta93@example.com,Toronto,ON,2025-03-14,email
+1478,Kavya,Martin,kavya.martin86@example.com,Timmins,ON,2026-07-07,social
+1479,Mei,Young,mei.young59@example.com,Windsor,ON,2025-11-21,paid_search
+1480,Liam,Kim,liam.kim93@example.com,Sudbury,ON,2025-04-19,organic
+1481,Maya,Davis,maya.davis63@example.com,Ottawa,ON,2026-02-14,organic
+1482,Julien,Bouchard,julien.bouchard97@example.com,Sudbury,ON,2025-12-02,paid_search
+1483,Amir,Gupta,amir.gupta29@example.com,Toronto,ON,2025-05-16,organic
+1484,Rhea,Rahman,rhea.rahman60@example.com,Sudbury,ON,2026-09-24,paid_search
+1485,Priya,Khan,priya.khan16@example.com,Sudbury,ON,2025-05-07,organic
+1486,Ethan,Smith,ethan.smith35@example.com,London,ON,2025-02-07,email
+1487,Yara,Campbell,yara.campbell94@example.com,North Bay,ON,2025-01-10,organic
+1488,Jasmine,Clarke,jasmine.clarke71@example.com,Montreal,QC,2025-03-09,social
+1489,Nadia,MacDonald,nadia.macdonald95@example.com,Mississauga,ON,2026-08-20,social
+1490,Ana,Ibrahim,ana.ibrahim37@example.com,Montreal,QC,2026-06-12,referral
+1491,Isabelle,Perez,isabelle.perez65@example.com,Barrie,ON,2026-05-18,email
+1492,Jasmine,Roy,jasmine.roy48@example.com,Toronto,ON,2025-02-18,organic
+1493,Sara,Cote,sara.cote44@example.com,Ottawa,ON,2025-07-27,organic
+1494,Uma,Dubois,uma.dubois96@example.com,Vancouver,BC,2025-07-27,paid_search
+1495,Fatima,Ibrahim,fatima.ibrahim85@example.com,Mississauga,ON,2026-01-07,social
+1496,Kareem,Martin,kareem.martin71@example.com,Ottawa,ON,2025-03-23,organic
+1497,Marco,Perez,marco.perez95@example.com,,,2025-10-09,referral
+1498,Isabelle,Davis,isabelle.davis47@example.com,Ottawa,ON,2026-05-11,paid_search
+1499,Zoe,Gupta,zoe.gupta54@example.com,Toronto,ON,2026-04-07,referral
+1500,Theo,Bouchard,theo.bouchard63@example.com,Toronto,ON,2026-08-01,referral
+1501,Victor,Morin,victor.morin14@example.com,Sudbury,ON,2026-06-10,paid_search
+1502,Jack,Singh,jack.singh34@example.com,Sudbury,ON,2025-01-26,organic
+1503,Rhea,Cote,rhea.cote68@example.com,Toronto,ON,2025-10-27,paid_search
+1504,Sara,Fraser,sara.fraser96@example.com,Calgary,AB,2026-05-01,social
+1505,Chloe,Tremblay,chloe.tremblay43@example.com,Toronto,ON,2025-06-10,social
+1506,Mia,Gill,mia.gill49@example.com,Toronto,ON,2026-07-31,social
+1507,Ethan,Clarke,ethan.clarke85@example.com,Ottawa,ON,2025-01-16,organic
+1508,Priya,Ahmed,priya.ahmed45@example.com,Mississauga,ON,2026-02-26,email
+1509,Daniel,Chen,daniel.chen12@example.com,Halifax,NS,2026-07-20,organic
+1510,Hana,Patel,hana.patel28@example.com,Toronto,ON,2025-02-04,social
+1511,Theo,Zhang,theo.zhang41@example.com,Montreal,QC,2025-11-15,social
+1512,Kavya,MacDonald,kavya.macdonald54@example.com,North Bay,ON,2026-09-11,organic
+1513,Amir,Miller,amir.miller76@example.com,Toronto,ON,2025-06-06,organic
+1514,Zain,Smith,zain.smith17@example.com,Windsor,ON,2025-08-02,organic
+1515,Victor,Wong,victor.wong24@example.com,Mississauga,ON,2025-07-15,organic
+1516,Omar,Morin,omar.morin94@example.com,Vancouver,BC,2026-03-02,social
+1517,Jack,Ahmed,jack.ahmed99@example.com,Vancouver,BC,2026-08-05,organic
+1518,Julien,Ibrahim,julien.ibrahim32@example.com,Toronto,ON,2026-03-05,paid_search
+1519,Noah,Nguyen,noah.nguyen59@example.com,North Bay,ON,2025-04-14,social
+1520,Noah,Brown,noah.brown60@example.com,Toronto,ON,2025-01-16,organic
+1521,Jin,Young,jin.young19@example.com,Hamilton,ON,2025-08-11,paid_search
+1522,Uma,Tremblay,uma.tremblay94@example.com,Hamilton,ON,2025-02-15,organic
+1523,Aisha,Perez,aisha.perez62@example.com,Sudbury,ON,2026-01-16,organic
+1524,Ben,Anderson,ben.anderson35@example.com,Thunder Bay,ON,2025-01-03,paid_search
+1525,Amir,Roy,amir.roy94@example.com,Sudbury,ON,2025-06-06,email
+1526,Rafael,Ibrahim,rafael.ibrahim37@example.com,London,ON,2025-01-08,organic
+1527,Olivia,Ahmed,olivia.ahmed97@example.com,Ottawa,ON,2025-05-28,organic
+1528,Isabelle,Tremblay,isabelle.tremblay11@example.com,Hamilton,ON,2025-07-14,email
+1529,Kavya,Khan,kavya.khan66@example.com,Timmins,ON,2025-07-21,referral
+1530,Ben,Tremblay,ben.tremblay95@example.com,Ottawa,ON,2026-06-27,social
+1531,Theo,Clarke,theo.clarke1@example.com,Toronto,ON,2025-05-05,organic
+1532,Ivan,Lavoie,ivan.lavoie13@example.com,Toronto,ON,2025-01-28,paid_search
+1533,Zain,Kim,zain.kim43@example.com,Ottawa,ON,2025-01-03,paid_search
+1534,Daniel,Ahmed,daniel.ahmed35@example.com,Barrie,ON,2025-05-11,paid_search
+1535,Mei,Ahmed,mei.ahmed41@example.com,Sudbury,ON,2025-01-26,organic
+1536,Jasmine,Santos,jasmine.santos60@example.com,Hamilton,ON,2026-09-05,social
+1537,Omar,Johnson,omar.johnson7@example.com,North Bay,ON,2025-09-27,organic
+1538,Kareem,Santos,kareem.santos54@example.com,North Bay,ON,2025-02-11,email
+1539,Hana,Chen,hana.chen48@example.com,Montreal,QC,2025-12-31,social
+1540,Priya,Anderson,priya.anderson36@example.com,Calgary,AB,2025-04-11,paid_search
+1541,Rhea,Chen,rhea.chen12@example.com,Kitchener,ON,2025-12-03,organic
+1542,Victor,Martin,victor.martin71@example.com,Ottawa,ON,2025-05-11,referral
+1543,Jasmine,Wilson,jasmine.wilson51@example.com,Barrie,ON,2025-05-26,organic
+1544,Jin,Singh,jin.singh14@example.com,Toronto,ON,2025-03-26,organic
+1545,Maya,Tremblay,maya.tremblay15@example.com,Toronto,ON,2026-09-24,referral
+1546,Rhea,Nguyen,rhea.nguyen52@example.com,Toronto,ON,2026-07-16,social
+1547,Noah,Morin,noah.morin84@example.com,Sudbury,ON,2025-01-05,email
+1548,Camille,Johnson,camille.johnson53@example.com,Vancouver,BC,2026-07-15,social
+1549,Tariq,Gagnon,tariq.gagnon9@example.com,Timmins,ON,2025-05-06,paid_search
+1550,Maya,Khan,maya.khan91@example.com,Hamilton,ON,2025-04-19,social
+1551,Amir,Gupta,amir.gupta8@example.com,Montreal,QC,2025-03-16,paid_search
+1552,Mia,Hassan,mia.hassan5@example.com,Sudbury,ON,2025-05-02,organic
+1553,Elena,Singh,elena.singh61@example.com,Kitchener,ON,2026-07-22,organic
+1554,Hana,Hassan,hana.hassan79@example.com,Toronto,ON,2026-06-03,referral
+1555,Theo,Nguyen,theo.nguyen68@example.com,Windsor,ON,2026-05-13,paid_search
+1556,Amir,Ibrahim,amir.ibrahim17@example.com,Ottawa,ON,2026-01-11,social
+1557,Amir,Miller,amir.miller36@example.com,Toronto,ON,2025-09-18,organic
+1558,Ava,MacDonald,ava.macdonald80@example.com,Hamilton,ON,2026-08-02,referral
+1559,Omar,Dubois,omar.dubois27@example.com,Sudbury,ON,2025-04-12,referral
+1560,Mei,Bouchard,mei.bouchard93@example.com,Kitchener,ON,2026-03-27,paid_search
+1561,Hana,Singh,hana.singh85@example.com,London,ON,2026-06-13,paid_search
+1562,Emma,Cote,emma.cote71@example.com,Windsor,ON,2025-05-03,organic
+1563,Rhea,Gupta,rhea.gupta28@example.com,Toronto,ON,2025-04-26,organic
+1564,Aisha,Lee,aisha.lee87@example.com,Hamilton,ON,2025-05-23,social
+1565,Jin,Fraser,jin.fraser54@example.com,Thunder Bay,ON,2025-10-21,organic
+1566,Dina,Campbell,dina.campbell99@example.com,Mississauga,ON,2026-04-22,paid_search
+1567,Elena,Perez,elena.perez11@example.com,Sudbury,ON,2025-03-14,paid_search
+1568,Theo,Khan,theo.khan14@example.com,Sault Ste. Marie,ON,2025-04-25,organic
+1569,Elena,Fraser,elena.fraser8@example.com,Hamilton,ON,2025-07-06,paid_search
+1570,Maya,Hassan,maya.hassan65@example.com,Toronto,ON,2026-05-26,organic
+1571,Ben,MacDonald,ben.macdonald66@example.com,Ottawa,ON,2026-05-05,social
+1572,Liam,Anderson,liam.anderson86@example.com,Sudbury,ON,2026-03-09,referral
+1573,Yara,Gagnon,yara.gagnon83@example.com,North Bay,ON,2026-04-15,organic
+1574,Elena,Khan,elena.khan1@example.com,Mississauga,ON,2025-05-30,organic
+1575,Fatima,Johnson,fatima.johnson13@example.com,Ottawa,ON,2025-05-26,referral
+1576,Elena,Ahmed,elena.ahmed39@example.com,Halifax,NS,2025-02-12,social
+1577,Ben,Dubois,ben.dubois89@example.com,Toronto,ON,2025-11-23,organic
+1578,Isabelle,Khan,isabelle.khan25@example.com,Ottawa,ON,2025-06-02,referral
+1579,Emma,Tremblay,emma.tremblay95@example.com,Toronto,ON,2026-08-05,social
+1580,Mia,Hassan,mia.hassan65@example.com,,,2025-09-18,paid_search
+1581,Ava,Gagnon,ava.gagnon22@example.com,Toronto,ON,2025-03-16,referral
+1582,Isabelle,Zhang,isabelle.zhang85@example.com,Mississauga,ON,2025-11-01,organic
+1583,Hana,Perez,hana.perez30@example.com,Ottawa,ON,2026-03-31,social
+1584,Zain,Gill,zain.gill70@example.com,Sudbury,ON,2025-06-16,organic
+1585,Tariq,Khan,tariq.khan70@example.com,Sudbury,ON,2025-08-18,organic
+1586,Hana,Ibrahim,hana.ibrahim77@example.com,Windsor,ON,2025-04-03,social
+1587,Aisha,Smith,aisha.smith56@example.com,Sudbury,ON,2026-05-01,organic
+1588,Ivan,Campbell,ivan.campbell2@example.com,Calgary,AB,2026-02-23,paid_search
+1589,Julien,Ibrahim,julien.ibrahim38@example.com,Ottawa,ON,2025-07-15,paid_search
+1590,Omar,Patel,omar.patel71@example.com,Sudbury,ON,2026-07-05,organic
+1591,Hugo,Chen,hugo.chen7@example.com,Toronto,ON,2025-12-15,email
+1592,Julien,Khan,julien.khan91@example.com,Hamilton,ON,2025-02-24,paid_search
+1593,Jin,Ibrahim,jin.ibrahim13@example.com,Ottawa,ON,2025-02-08,referral
+1594,Jack,Young,jack.young44@example.com,Calgary,AB,2025-02-14,organic
+1595,Zain,Perez,zain.perez29@example.com,Sudbury,ON,2025-01-09,organic
+1596,Arjun,Clarke,arjun.clarke80@example.com,Ottawa,ON,2026-08-31,referral
+1597,Zain,Lee,zain.lee87@example.com,North Bay,ON,2026-03-04,paid_search
+1598,Noah,Campbell,noah.campbell27@example.com,Mississauga,ON,2025-08-13,organic
+1599,Olivia,Nguyen,olivia.nguyen22@example.com,Toronto,ON,2025-12-11,social
+1600,Mia,Kim,mia.kim81@example.com,Ottawa,ON,2025-04-28,email
+1601,Noah,Campbell,noah.campbell27@example.com ,Mississauga,ON,2025-08-18,organic
+1602,Ryan,Ahmed,RYAN.AHMED30@EXAMPLE.COM,Sudbury,ON,2025-09-07,referral
+1603,Jack,Patel,JACK.PATEL55@EXAMPLE.COM,Sudbury,ON,2025-09-17,referral
+1604,Kareem,Dubois,KAREEM.DUBOIS4@EXAMPLE.COM,Toronto,ON,2025-10-10,email
+1605,Chloe,Patel, chloe.patel1@example.com,Barrie,ON,2025-07-26,paid_search
+1606,Aisha,Singh,Aisha.singh12@example.com,Sault Ste. Marie,ON,2026-03-04,organic
+1607,Ryan,Davis,Ryan.davis69@example.com,Toronto,ON,2026-01-18,organic
+1608,Amir,Santos,Amir.santos73@example.com,Hamilton,ON,2025-04-17,organic
+1609,Sara,Gupta,sara.gupta88@example.com ,Toronto,ON,2025-06-07,organic
+1610,Elena,Johnson,Elena.johnson68@example.com,Winnipeg,MB,2026-10-05,paid_search
+1611,Ivan,Hassan,ivan.hassan12@example.com ,Montreal,QC,2025-10-24,paid_search
+1612,Noah,Lee,NOAH.LEE30@EXAMPLE.COM,Ottawa,ON,2025-02-20,referral

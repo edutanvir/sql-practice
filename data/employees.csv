@@ -1,0 +1,50 @@
+employee_id,first_name,last_name,department_id,manager_id,job_title,hire_date,salary
+101,Camille,Lee,1,,Chief Executive Officer,2017-05-09,253500
+102,Sara,Clarke,2,101,VP Engineering,2017-11-25,199300
+103,Omar,Wong,2,102,Engineering Manager,2020-07-29,134600
+104,Gabriel,Ahmed,2,103,QA Analyst,2026-01-29,67300
+105,Isabelle,Clarke,2,103,Software Developer,2024-03-26,62800
+106,Mei,Lee,2,103,DevOps Engineer,2021-07-20,88000
+107,Jin,Martin,2,103,QA Analyst,2023-05-31,95700
+108,Ryan,Campbell,2,102,Engineering Manager,2019-09-25,112900
+109,Isabelle,Kim,2,108,DevOps Engineer,2024-04-27,71200
+110,Uma,Young,2,108,DevOps Engineer,2022-08-28,63600
+111,Julien,Miller,2,108,DevOps Engineer,2024-05-12,89700
+112,Kareem,Zhang,2,108,Software Developer,2025-05-30,94700
+113,Camille,Perez,3,101,VP Data,2018-09-11,196300
+114,Kareem,Tremblay,3,113,Data Team Lead,2019-04-10,137700
+115,Marco,Smith,3,114,BI Developer,2024-12-31,63700
+116,Fatima,Davis,3,114,BI Developer,2019-09-28,96300
+117,Ben,Perez,3,114,BI Developer,2024-06-18,71300
+118,Marco,Hassan,3,113,Data Team Lead,2018-07-04,130500
+119,Tariq,Santos,3,118,Data Analyst,2025-04-23,78400
+120,Kareem,Lavoie,3,118,BI Developer,2025-05-04,104400
+121,Theo,Santos,3,118,BI Developer,2023-09-13,90400
+122,Isabelle,Khan,3,118,Data Engineer,2019-04-18,64200
+123,Daniel,Roy,4,101,VP Marketing,2018-09-28,186000
+124,Emma,Johnson,4,123,Marketing Manager,2020-07-18,125300
+125,Liam,Wong,4,124,Content Writer,2019-07-27,81000
+126,Maya,Clarke,4,124,Content Writer,2024-02-09,107200
+127,Mia,Johnson,4,124,SEO Analyst,2024-04-09,74000
+128,Victor,Santos,4,124,Content Writer,2019-11-30,104500
+129,Hugo,Singh,4,123,Marketing Manager,2019-11-25,113200
+130,Lena,Dubois,4,129,SEO Analyst,2024-03-25,62900
+131,Aiden,Rahman,4,129,Marketing Specialist,2025-09-14,97800
+132,Ava,Gill,5,101,VP Sales,2017-12-20,174000
+133,Zain,Wilson,5,132,Sales Manager,2019-04-30,131900
+134,Daniel,Ahmed,5,133,Sales Rep,2022-09-15,105600
+135,Omar,Singh,5,133,Customer Success Rep,2020-09-14,97800
+136,Marco,Zhang,5,133,Account Executive,2020-08-30,101200
+137,Mia,Kim,5,133,Customer Success Rep,2020-02-20,89400
+138,Sofia,Fraser,6,101,VP Operations,2017-08-27,195700
+139,Mia,Patel,6,138,Operations Manager,2020-01-05,136500
+140,Emma,Morin,6,139,Buyer,2019-05-08,69000
+141,Arjun,Brown,6,139,Logistics Coordinator,2023-01-31,104400
+142,Jin,Anderson,6,138,Operations Manager,2017-12-19,126700
+143,Tariq,Lavoie,6,142,Logistics Coordinator,2024-03-28,83400
+144,Mei,Roy,6,142,Warehouse Lead,2025-08-08,102500
+145,Daniel,Zhang,6,142,Warehouse Lead,2025-01-07,75600
+146,Liam,MacDonald,7,101,VP Finance,2018-07-24,189600
+147,Tariq,Campbell,7,146,Finance Manager,2020-11-21,123100
+148,Sara,Gagnon,7,147,Accountant,2019-09-13,104500
+149,Ana,Rahman,7,147,Payroll Clerk,2021-04-22,93700

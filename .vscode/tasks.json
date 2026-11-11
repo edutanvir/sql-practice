@@ -1,0 +1,41 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run current SQL file",
+      "type": "shell",
+      "command": "python3 run.py \"${file}\"",
+      "group": { "kind": "test", "isDefault": true },
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Check my answers (current file)",
+      "type": "shell",
+      "command": "python3 check.py \"${file}\"",
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Start a topic (asks for the number)",
+      "type": "shell",
+      "command": "python3 start.py ${input:topicNumber}",
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Rebuild the database",
+      "type": "shell",
+      "command": "python3 build_db.py",
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "topicNumber",
+      "type": "promptString",
+      "description": "Topic number, 1 to 15"
+    }
+  ]
+}
